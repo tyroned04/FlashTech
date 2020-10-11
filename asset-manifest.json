@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/FlashTech/static/css/main.833a4e96.chunk.css",
+    "main.js": "/FlashTech/static/js/main.bc223d1b.chunk.js",
+    "main.js.map": "/FlashTech/static/js/main.bc223d1b.chunk.js.map",
+    "runtime-main.js": "/FlashTech/static/js/runtime-main.4d9261b6.js",
+    "runtime-main.js.map": "/FlashTech/static/js/runtime-main.4d9261b6.js.map",
+    "static/css/2.19e08110.chunk.css": "/FlashTech/static/css/2.19e08110.chunk.css",
+    "static/js/2.ae68f58d.chunk.js": "/FlashTech/static/js/2.ae68f58d.chunk.js",
+    "static/js/2.ae68f58d.chunk.js.map": "/FlashTech/static/js/2.ae68f58d.chunk.js.map",
+    "index.html": "/FlashTech/index.html",
+    "precache-manifest.59466292c4f1a2d354358c487ac453c8.js": "/FlashTech/precache-manifest.59466292c4f1a2d354358c487ac453c8.js",
+    "service-worker.js": "/FlashTech/service-worker.js",
+    "static/css/2.19e08110.chunk.css.map": "/FlashTech/static/css/2.19e08110.chunk.css.map",
+    "static/css/main.833a4e96.chunk.css.map": "/FlashTech/static/css/main.833a4e96.chunk.css.map",
+    "static/js/2.ae68f58d.chunk.js.LICENSE": "/FlashTech/static/js/2.ae68f58d.chunk.js.LICENSE",
+    "static/media/about_arrow_g.png": "/FlashTech/static/media/about_arrow_g.9f7ee642.png",
+    "static/media/about_arrow_o.png": "/FlashTech/static/media/about_arrow_o.c29bf260.png",
+    "static/media/business_sols.png": "/FlashTech/static/media/business_sols.ac3992eb.png",
+    "static/media/Careers.css": "/FlashTech/static/media/careers_banner.8a67aeea.png",
+    "static/media/carousel_img_1.png": "/FlashTech/static/media/carousel_img_1.742b5e86.png",
+    "static/media/carousel_img_2.png": "/FlashTech/static/media/carousel_img_2.46b354bf.png",
+    "static/media/carousel_img_3.png": "/FlashTech/static/media/carousel_img_3.41968468.png",
+    "static/media/hero_about.png": "/FlashTech/static/media/hero_about.f179b4fa.png",
+    "static/media/logo.png": "/FlashTech/static/media/logo.081b4f3f.png",
+    "static/media/Services.css": "/FlashTech/static/media/services_technology.af5e11aa.png",
+    "static/media/talent_staffing.png": "/FlashTech/static/media/talent_staffing.e046fd80.png",
+    "static/media/tech_sols.png": "/FlashTech/static/media/tech_sols.4f3c0709.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d9261b6.js",
+    "static/css/2.19e08110.chunk.css",
+    "static/js/2.ae68f58d.chunk.js",
+    "static/css/main.833a4e96.chunk.css",
+    "static/js/main.bc223d1b.chunk.js"
+  ]
+}
