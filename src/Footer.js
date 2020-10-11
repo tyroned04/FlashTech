@@ -29,7 +29,7 @@ class Footer extends React.Component {
                 <ul className="footer_ul">
                     <li>635 Ivan Allen Jr Blvd NW, Atlanta, GA</li>
                     <li>Atlanta, GA 30303</li>
-                    <li><a href="mailto:info.flashtech@gmail.com">info@flashtech.com</a></li>
+                    <li><a href="mailto:info.flashtechsolutions@gmail.com">info@flashtech.com</a></li>
                 </ul>
                 </div>
             </footer>

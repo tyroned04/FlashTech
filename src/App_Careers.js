@@ -83,7 +83,7 @@ function JobInfo(props) {
 
     return(
         <div className="more_context">
-            <p><b>Apply</b> by sending your resume to <a href="mailto:info@flashtech.com">info@flashtech.com</a></p>
+            <p><b>Apply</b> by sending your resume to <a href="mailto:info.flashtechsolutions@gmail.com">info@flashtech.com</a></p>
             <div className="more_button">
                 <button onClick={toggle}>More</button>
             </div>
