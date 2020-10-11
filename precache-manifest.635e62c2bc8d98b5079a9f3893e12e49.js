@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b2bdc25176b60001955af228c3b68da",
+    "revision": "46f29ea57c7acf9fcc2ab9a816495fa2",
     "url": "/FlashTech/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FlashTech/static/css/2.19e08110.chunk.css"
   },
   {
-    "revision": "ee880c2e05dc64acb44f",
+    "revision": "64765c37483adb023685",
     "url": "/FlashTech/static/css/main.833a4e96.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FlashTech/static/js/2.ae68f58d.chunk.js.LICENSE"
   },
   {
-    "revision": "ee880c2e05dc64acb44f",
-    "url": "/FlashTech/static/js/main.72bc5b2e.chunk.js"
+    "revision": "64765c37483adb023685",
+    "url": "/FlashTech/static/js/main.46f1c313.chunk.js"
   },
   {
     "revision": "35df6366d70d8225927b",

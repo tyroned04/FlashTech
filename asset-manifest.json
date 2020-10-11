@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FlashTech/static/css/main.833a4e96.chunk.css",
-    "main.js": "/FlashTech/static/js/main.72bc5b2e.chunk.js",
-    "main.js.map": "/FlashTech/static/js/main.72bc5b2e.chunk.js.map",
+    "main.js": "/FlashTech/static/js/main.46f1c313.chunk.js",
+    "main.js.map": "/FlashTech/static/js/main.46f1c313.chunk.js.map",
     "runtime-main.js": "/FlashTech/static/js/runtime-main.4d9261b6.js",
     "runtime-main.js.map": "/FlashTech/static/js/runtime-main.4d9261b6.js.map",
     "static/css/2.19e08110.chunk.css": "/FlashTech/static/css/2.19e08110.chunk.css",
     "static/js/2.ae68f58d.chunk.js": "/FlashTech/static/js/2.ae68f58d.chunk.js",
     "static/js/2.ae68f58d.chunk.js.map": "/FlashTech/static/js/2.ae68f58d.chunk.js.map",
     "index.html": "/FlashTech/index.html",
-    "precache-manifest.e7cc46873b67a9cb66b8e902094e619e.js": "/FlashTech/precache-manifest.e7cc46873b67a9cb66b8e902094e619e.js",
+    "precache-manifest.635e62c2bc8d98b5079a9f3893e12e49.js": "/FlashTech/precache-manifest.635e62c2bc8d98b5079a9f3893e12e49.js",
     "service-worker.js": "/FlashTech/service-worker.js",
     "static/css/2.19e08110.chunk.css.map": "/FlashTech/static/css/2.19e08110.chunk.css.map",
     "static/css/main.833a4e96.chunk.css.map": "/FlashTech/static/css/main.833a4e96.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.19e08110.chunk.css",
     "static/js/2.ae68f58d.chunk.js",
     "static/css/main.833a4e96.chunk.css",
-    "static/js/main.72bc5b2e.chunk.js"
+    "static/js/main.46f1c313.chunk.js"
   ]
 }
