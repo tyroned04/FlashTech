@@ -1,4 +1,15 @@
+## Latest Update
+
+Link to the website: https://hydrobolix.github.io/FlashTech/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+## Outdated Instructions below
+
+
 
 ## Before Running
 
