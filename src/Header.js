@@ -16,7 +16,7 @@ function Navi() {
     <header>
         <Navbar color="dark" dark expand="md">
           <div className="logo_wrapper">
-            <a className="logoN" href="/"><img className="logo" src={logo} alt="logo" /></a>
+            <a className="logoN" href="/FlashTech/"><img className="logo" src={logo} alt="logo" /></a>
             </div>
             <NavbarToggler onClick={toggle} />
             <Collapse isOpen={isOpen} navbar>
