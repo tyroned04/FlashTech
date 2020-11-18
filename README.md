@@ -1,6 +1,6 @@
 ## Latest Update
 
-Link to the website: https://hydrobolix.github.io/FlashTech/
+Link to the application: https://tyroned04.github.io/FlashTech/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
